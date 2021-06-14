@@ -1,0 +1,21 @@
+html {
+    width: 80%;
+}
+
+h1{
+    color:blueviolet
+}
+
+img{
+    border: 2px solid black;
+}
+
+.header ul{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    list-style:none;
+    border-bottom: 4px solid #0f0f0f;
+    margin:0 20px 40px 20px;
+    padding:0;
+}
