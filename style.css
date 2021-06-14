@@ -10,4 +10,11 @@ img{
     border: 2px solid black;
 }
 
-
+.header ul{
+    display:flex;
+    flex-wrap: wrap;
+    list-style:none;
+    border-bottom: 4px solid #0f0f0f;
+    margin:0 20px 40px 20px;
+    padding:20px;
+}
